@@ -1,6 +1,3 @@
-## Forked form innnky/so-vits-svc 4.0版本
-https://github.com/innnky/so-vits-svc 
-
 ## colab脚本 
 https://colab.research.google.com/drive/1hGt9XowC07NGmXxKNJvY5N64uMdd435M?usp=sharing
 
