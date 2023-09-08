@@ -26,7 +26,7 @@ https://huggingface.co/Plutoisy/pt_file/tree/main
 + 使用colab在线训练采用网盘直接下载到对应目录，具体代码如下
 ```shell
 # 下载checkpoint_best_legacy_500.pt文件放在`hubert`目录下
-wget -P hubert/ [https://drive.google.com/file/d/1lUU-Zp1JkJsuy1PBXUXhJ-TFscG-kPzu/view?usp=sharing]
+wget -P hubert/ [https://huggingface.co/innnky/contentvec/resolve/main/checkpoint_best_legacy_500.pt]
 ```
   + 放在`hubert`目录下
 + 预训练底模文件： [G_0.pth](https://huggingface.co/innnky/sovits_pretrained/resolve/main/sovits4/G_0.pth) 与 [D_0.pth](https://huggingface.co/innnky/sovits_pretrained/resolve/main/sovits4/D_0.pth)
