@@ -28,7 +28,7 @@ https://huggingface.co/Plutoisy/pt_file/tree/main
 + contentvec ：[checkpoint_best_legacy_500.pt](https://ibm.box.com/s/z1wgl1stco8ffooyatzdwsqn2psd9lrr)
 ```shell
 # 下载checkpoint_best_legacy_500.pt文件放在`hubert`目录下
-!wget -P hubert/ [https://huggingface.co/Plutoisy/pt_file/resolve/main/checkpoint_best_legacy_500.pt](https://drive.google.com/file/d/1lUU-Zp1JkJsuy1PBXUXhJ-TFscG-kPzu/view?usp=sharing)
+wget -P hubert/ [https://huggingface.co/Plutoisy/pt_file/resolve/main/checkpoint_best_legacy_500.pt](https://drive.google.com/file/d/1lUU-Zp1JkJsuy1PBXUXhJ-TFscG-kPzu/view?usp=sharing)
 ```
   + 放在`hubert`目录下
 + 预训练底模文件： [G_0.pth](https://huggingface.co/innnky/sovits_pretrained/resolve/main/sovits4/G_0.pth) 与 [D_0.pth](https://huggingface.co/innnky/sovits_pretrained/resolve/main/sovits4/D_0.pth)
