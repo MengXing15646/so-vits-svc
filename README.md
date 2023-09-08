@@ -23,7 +23,7 @@ https://huggingface.co/Plutoisy/pt_file/tree/main
 ## 预先下载的模型文件
 + contentvec ：[checkpoint_best_legacy_500.pt](https://ibm.box.com/s/z1wgl1stco8ffooyatzdwsqn2psd9lrr)
 + 模型文件过大无法直接导入仓库，本地训练可直接下载放在对应的目录
-+ 使用colab在线训练采用网盘直链直接导入对应目录，具体代码如下
++ 使用colab在线训练采用网盘直接下载到对应目录，具体代码如下
 ```shell
 # 下载checkpoint_best_legacy_500.pt文件放在`hubert`目录下
 wget -P hubert/ [https://huggingface.co/Plutoisy/pt_file/resolve/main/checkpoint_best_legacy_500.pt](https://drive.google.com/file/d/1lUU-Zp1JkJsuy1PBXUXhJ-TFscG-kPzu/view?usp=sharing)
